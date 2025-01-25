@@ -9,21 +9,12 @@ import asyncio
 
 # Константы
 API_TOKEN = "7925472616:AAG7YFA54h8llVbOjJuBrVvH1igpfhKxhD4"
-ADMIN_ID = 857663686  # Замените на ID администратора
+ADMIN_ID = 23334334323  # Замените на ID администратора
 DATA_FILE = "Pantone.xlsx"
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
-
-# Клавиатура для админ-панели
-keyboard = [
-    [
-        KeyboardButton(text="Добавить строку"),
-        KeyboardButton(text="Редактировать строку")
-    ]
-]
-admin_keyboard = ReplyKeyboardMarkup(keyboard=keyboard, resize_keyboard=True)
 
 # Загрузка данных из Excel
 try:
@@ -42,20 +33,43 @@ class EditRow(StatesGroup):
     waiting_for_new_data = State()
 
 
-# Обработчик команды /start
+# Клавиатуры
+admin_keyboard = ReplyKeyboardMarkup(
+    keyboard=[
+        [KeyboardButton(text="Добавить строку"), KeyboardButton(text="Редактировать строку")],
+    ],
+    resize_keyboard=True,
+)
+
+user_keyboard = ReplyKeyboardMarkup(
+    keyboard=[
+        [KeyboardButton(text="Склад номер 1"), KeyboardButton(text="Склад номер 2")],
+    ],
+    resize_keyboard=True,
+)
+
+
 @dp.message(Command("start"))
 async def start(message: types.Message):
     if message.from_user.id == ADMIN_ID:
-        await message.reply("Добро пожаловать в панель администратора!\nОна позволяет редактировать базу данных с рабочим инвентарем.", reply_markup=admin_keyboard)
+        # Отправляем админ-клавиатуру и сообщение
+        await message.reply(
+            "Добро пожаловать в панель администратора!\n"
+            "Она позволяет редактировать базу данных с рабочим инвентарем.",
+            reply_markup=admin_keyboard,
+        )
     else:
-        await message.reply("У вас нет доступа к этой панели.")
+        await message.reply(
+            "Выберите нужный вам склад",
+            reply_markup=user_keyboard,
+        )
 
 
 # Добавление строки
 @dp.message(lambda msg: msg.text == "Добавить строку")
 async def add_row(message: types.Message, state: FSMContext):
     if message.from_user.id == ADMIN_ID:
-        await message.reply("Введите данные для строки(Название, вес, расположение по вертикали, горизонтали)через запятую:")
+        await message.reply("Введите данные для строки (Название, вес, расположение по вертикали, горизонтали) через запятую:")
         await state.set_state(AddRow.waiting_for_row_data)
     else:
         await message.reply("У вас нет доступа к этой функции.")
@@ -127,7 +141,6 @@ async def process_new_data(message: types.Message, state: FSMContext):
 # Основной цикл бота
 async def main():
     await dp.start_polling(bot)
-
 
 if __name__ == "__main__":
     asyncio.run(main())
