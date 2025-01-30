@@ -1,0 +1,216 @@
+2025-01-30 03:08:40,676 - INFO - Данные из файла успешно загружены.
+2025-01-30 03:08:40,679 - INFO - Start polling
+2025-01-30 03:08:41,052 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:08:41,621 - INFO - Пользователь 857663686 выбрал опцию: Назад
+2025-01-30 03:08:41,621 - INFO - Update id=23574703 is handled. Duration 360 ms by bot id=7925472616
+2025-01-30 03:08:41,647 - INFO - Администратор 857663686 вошёл в панель.
+2025-01-30 03:08:41,648 - INFO - Update id=23574704 is handled. Duration 391 ms by bot id=7925472616
+2025-01-30 03:08:44,791 - INFO - Update id=23574705 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:08:47,319 - INFO - Update id=23574706 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:08:48,628 - INFO - Пользователь 857663686 выбрал опцию: Назад
+2025-01-30 03:08:48,628 - INFO - Update id=23574707 is handled. Duration 108 ms by bot id=7925472616
+2025-01-30 03:09:16,882 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:09:16,882 - INFO - Update id=23574708 is handled. Duration 155 ms by bot id=7925472616
+2025-01-30 03:09:19,025 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:09:19,025 - INFO - Update id=23574709 is handled. Duration 93 ms by bot id=7925472616
+2025-01-30 03:09:21,818 - INFO - Пользователь 857663686 выбрал опцию: Назад
+2025-01-30 03:09:21,818 - INFO - Update id=23574710 is handled. Duration 93 ms by bot id=7925472616
+2025-01-30 03:09:26,969 - INFO - Администратор 857663686 вошёл в панель.
+2025-01-30 03:09:26,969 - INFO - Update id=23574711 is handled. Duration 140 ms by bot id=7925472616
+2025-01-30 03:09:28,961 - INFO - По запросу 'Добавить строку' ничего не найдено.
+2025-01-30 03:09:28,961 - INFO - Update id=23574712 is handled. Duration 109 ms by bot id=7925472616
+2025-01-30 03:09:30,436 - INFO - По запросу 'Редактировать строку' ничего не найдено.
+2025-01-30 03:09:30,437 - INFO - Update id=23574713 is handled. Duration 188 ms by bot id=7925472616
+2025-01-30 03:09:31,419 - INFO - Пользователь 857663686 выбрал опцию: Назад
+2025-01-30 03:09:31,419 - INFO - Update id=23574714 is handled. Duration 140 ms by bot id=7925472616
+2025-01-30 03:10:08,510 - INFO - Администратор 857663686 вошёл в панель.
+2025-01-30 03:10:08,510 - INFO - Update id=23574715 is handled. Duration 202 ms by bot id=7925472616
+2025-01-30 03:10:09,682 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-30 03:10:09,682 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7925472616)
+2025-01-30 03:10:11,779 - INFO - Connection established (tryings = 1, bot id = 7925472616)
+2025-01-30 03:10:11,944 - INFO - По запросу 'Редактировать строку' ничего не найдено.
+2025-01-30 03:10:11,945 - INFO - Update id=23574717 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:10:13,482 - INFO - Пользователь 857663686 выбрал опцию: Назад
+2025-01-30 03:10:13,482 - INFO - Update id=23574718 is handled. Duration 110 ms by bot id=7925472616
+2025-01-30 03:10:14,863 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-30 03:10:14,863 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7925472616)
+2025-01-30 03:10:25,947 - INFO - Connection established (tryings = 1, bot id = 7925472616)
+2025-01-30 03:10:28,441 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-30 03:10:28,441 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7925472616)
+2025-01-30 03:10:39,097 - INFO - Данные из файла успешно загружены.
+2025-01-30 03:10:39,103 - INFO - Start polling
+2025-01-30 03:10:39,378 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:10:39,959 - INFO - Администратор 857663686 вошёл в панель.
+2025-01-30 03:10:39,960 - INFO - Update id=23574719 is handled. Duration 313 ms by bot id=7925472616
+2025-01-30 03:10:39,972 - INFO - Администратор 857663686 вошёл в панель.
+2025-01-30 03:10:39,972 - INFO - Update id=23574720 is handled. Duration 328 ms by bot id=7925472616
+2025-01-30 03:10:51,074 - INFO - Администратор 857663686 вошёл в панель.
+2025-01-30 03:10:51,074 - INFO - Update id=23574721 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:10:55,043 - INFO - Update id=23574722 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:10:56,221 - INFO - Update id=23574723 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:10:57,142 - INFO - Update id=23574724 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:10:58,122 - INFO - Update id=23574725 is not handled. Duration 14 ms by bot id=7925472616
+2025-01-30 03:11:57,395 - INFO - Данные из файла успешно загружены.
+2025-01-30 03:11:57,398 - INFO - Start polling
+2025-01-30 03:11:57,712 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:11:58,300 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:11:58,300 - INFO - Update id=23574728 is handled. Duration 297 ms by bot id=7925472616
+2025-01-30 03:11:58,306 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:11:58,306 - INFO - Update id=23574727 is handled. Duration 297 ms by bot id=7925472616
+2025-01-30 03:11:58,307 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:11:58,307 - INFO - Update id=23574726 is handled. Duration 297 ms by bot id=7925472616
+2025-01-30 03:12:01,321 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:12:01,321 - INFO - Update id=23574729 is handled. Duration 141 ms by bot id=7925472616
+2025-01-30 03:12:03,847 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:12:03,848 - INFO - Update id=23574730 is handled. Duration 108 ms by bot id=7925472616
+2025-01-30 03:12:06,181 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:12:06,181 - INFO - Update id=23574731 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:12:17,387 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:12:17,387 - INFO - Update id=23574732 is handled. Duration 420 ms by bot id=7925472616
+2025-01-30 03:20:56,779 - INFO - Данные из файла успешно загружены.
+2025-01-30 03:20:56,782 - INFO - Start polling
+2025-01-30 03:20:57,189 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:20:57,792 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:20:57,793 - INFO - Update id=23574733 is handled. Duration 342 ms by bot id=7925472616
+2025-01-30 03:20:57,873 - INFO - Пользователь 857663686 выбрал опцию: Назад
+2025-01-30 03:20:57,873 - INFO - Update id=23574734 is handled. Duration 327 ms by bot id=7925472616
+2025-01-30 03:20:58,998 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:20:58,998 - INFO - Update id=23574735 is handled. Duration 155 ms by bot id=7925472616
+2025-01-30 03:21:01,008 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:01,009 - INFO - Update id=23574736 is handled. Duration 155 ms by bot id=7925472616
+2025-01-30 03:21:07,150 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:07,151 - INFO - Update id=23574737 is handled. Duration 155 ms by bot id=7925472616
+2025-01-30 03:21:08,490 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:08,490 - INFO - Update id=23574738 is handled. Duration 172 ms by bot id=7925472616
+2025-01-30 03:21:08,829 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:08,830 - INFO - Update id=23574739 is handled. Duration 157 ms by bot id=7925472616
+2025-01-30 03:21:09,077 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:09,077 - INFO - Update id=23574740 is handled. Duration 157 ms by bot id=7925472616
+2025-01-30 03:21:09,370 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:09,370 - INFO - Update id=23574741 is handled. Duration 170 ms by bot id=7925472616
+2025-01-30 03:21:09,880 - INFO - По запросу '13' ничего не найдено.
+2025-01-30 03:21:09,880 - INFO - Update id=23574742 is handled. Duration 92 ms by bot id=7925472616
+2025-01-30 03:21:10,847 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:10,847 - INFO - Update id=23574743 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:21:12,308 - INFO - Пользователь 857663686 начал редактирование строки 0.
+2025-01-30 03:21:12,308 - INFO - Update id=23574744 is handled. Duration 141 ms by bot id=7925472616
+2025-01-30 03:21:19,850 - INFO - Update id=23574745 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:21:25,551 - INFO - Update id=23574746 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:21:35,567 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:21:35,567 - INFO - Update id=23574747 is handled. Duration 93 ms by bot id=7925472616
+2025-01-30 03:21:38,914 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:21:38,914 - INFO - Update id=23574748 is handled. Duration 187 ms by bot id=7925472616
+2025-01-30 03:21:41,919 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:21:41,920 - INFO - Update id=23574749 is handled. Duration 108 ms by bot id=7925472616
+2025-01-30 03:21:44,222 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:21:44,222 - INFO - Update id=23574750 is handled. Duration 172 ms by bot id=7925472616
+2025-01-30 03:21:45,550 - INFO - Пользователь 857663686 начал редактирование строки 1.
+2025-01-30 03:21:45,551 - INFO - Update id=23574751 is handled. Duration 172 ms by bot id=7925472616
+2025-01-30 03:21:47,341 - INFO - Update id=23574752 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:21:52,399 - INFO - Пользователь 857663686 начал редактирование строки 1.
+2025-01-30 03:21:52,399 - INFO - Update id=23574753 is handled. Duration 141 ms by bot id=7925472616
+2025-01-30 03:22:06,804 - INFO - Пользователь 857663686 начал редактирование строки 1.
+2025-01-30 03:22:06,804 - INFO - Update id=23574754 is handled. Duration 186 ms by bot id=7925472616
+2025-01-30 03:22:25,191 - INFO - Пользователь 857663686 начал редактирование строки 1.
+2025-01-30 03:22:25,192 - INFO - Update id=23574755 is handled. Duration 172 ms by bot id=7925472616
+2025-01-30 03:22:36,803 - INFO - Update id=23574756 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:25:10,010 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:25:10,010 - INFO - Update id=23574757 is handled. Duration 141 ms by bot id=7925472616
+2025-01-30 03:25:14,344 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:25:14,346 - INFO - Update id=23574758 is handled. Duration 140 ms by bot id=7925472616
+2025-01-30 03:25:16,878 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:25:16,879 - INFO - Update id=23574759 is handled. Duration 92 ms by bot id=7925472616
+2025-01-30 03:25:20,178 - INFO - Пользователь 857663686 получил результаты поиска.
+2025-01-30 03:25:20,178 - INFO - Update id=23574760 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:25:24,621 - INFO - Пользователь 857663686 начал редактирование строки 1.
+2025-01-30 03:25:24,621 - INFO - Update id=23574761 is handled. Duration 170 ms by bot id=7925472616
+2025-01-30 03:34:28,431 - INFO - Данные из файла успешно загружены.
+2025-01-30 03:34:28,438 - INFO - Start polling
+2025-01-30 03:34:28,953 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:34:43,635 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:34:43,635 - INFO - Update id=23574762 is handled. Duration 311 ms by bot id=7925472616
+2025-01-30 03:34:46,564 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:34:46,565 - INFO - Update id=23574763 is handled. Duration 141 ms by bot id=7925472616
+2025-01-30 03:34:53,560 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:34:53,561 - INFO - Update id=23574764 is handled. Duration 125 ms by bot id=7925472616
+2025-01-30 03:34:57,548 - INFO - Пользователь 857663686 получил результаты поиска краски: 31
+2025-01-30 03:34:57,549 - INFO - Update id=23574765 is handled. Duration 125 ms by bot id=7925472616
+2025-01-30 03:35:07,144 - INFO - Пользователь 857663686 начал редактирование строки 1.
+2025-01-30 03:35:07,145 - INFO - Update id=23574766 is handled. Duration 155 ms by bot id=7925472616
+2025-01-30 03:43:04,772 - INFO - Данные из файла успешно загружены.
+2025-01-30 03:43:04,775 - INFO - Start polling
+2025-01-30 03:43:05,177 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:43:05,704 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:43:05,704 - INFO - Update id=23574767 is handled. Duration 329 ms by bot id=7925472616
+2025-01-30 03:43:05,705 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:43:05,705 - INFO - Update id=23574768 is handled. Duration 329 ms by bot id=7925472616
+2025-01-30 03:43:09,013 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:43:09,014 - INFO - Update id=23574769 is handled. Duration 155 ms by bot id=7925472616
+2025-01-30 03:43:11,537 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:43:11,538 - INFO - Update id=23574770 is handled. Duration 93 ms by bot id=7925472616
+2025-01-30 03:43:14,447 - INFO - Пользователь 857663686 получил результаты поиска краски: 31
+2025-01-30 03:43:14,447 - INFO - Update id=23574771 is handled. Duration 125 ms by bot id=7925472616
+2025-01-30 03:43:16,391 - INFO - Пользователь 857663686 начал редактирование строки 1.
+2025-01-30 03:43:16,391 - INFO - Update id=23574772 is handled. Duration 141 ms by bot id=7925472616
+2025-01-30 03:43:22,165 - INFO - Update id=23574773 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:43:23,265 - INFO - Update id=23574774 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:43:24,868 - INFO - Update id=23574775 is not handled. Duration 14 ms by bot id=7925472616
+2025-01-30 03:52:52,674 - INFO - Start polling
+2025-01-30 03:52:53,080 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:52:53,628 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:52:53,629 - INFO - Update id=23574776 is handled. Duration 295 ms by bot id=7925472616
+2025-01-30 03:52:53,632 - INFO - Пользователь 857663686 начал работу.
+2025-01-30 03:52:53,633 - INFO - Update id=23574777 is handled. Duration 311 ms by bot id=7925472616
+2025-01-30 03:52:57,054 - INFO - Пользователь 857663686 выбрал опцию: Склад номер 1
+2025-01-30 03:52:57,055 - INFO - Update id=23574778 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:52:59,641 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:52:59,641 - INFO - Update id=23574779 is handled. Duration 108 ms by bot id=7925472616
+2025-01-30 03:53:02,531 - INFO - Update id=23574780 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:06,525 - INFO - Update id=23574781 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:08,837 - INFO - Update id=23574782 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:09,585 - INFO - Update id=23574783 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:09,981 - INFO - Update id=23574784 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:10,290 - INFO - Update id=23574785 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:10,542 - INFO - Update id=23574786 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:10,923 - INFO - Update id=23574787 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:11,269 - INFO - Update id=23574788 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:11,550 - INFO - Update id=23574789 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:11,877 - INFO - Update id=23574790 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:12,458 - INFO - Update id=23574791 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:12,768 - INFO - Update id=23574792 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:13,087 - INFO - Update id=23574793 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:53:13,311 - INFO - Update id=23574794 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:56:04,519 - INFO - Start polling
+2025-01-30 03:56:04,896 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:56:05,497 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:56:05,498 - INFO - Update id=23574795 is handled. Duration 311 ms by bot id=7925472616
+2025-01-30 03:56:05,500 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:56:05,501 - INFO - Update id=23574796 is handled. Duration 311 ms by bot id=7925472616
+2025-01-30 03:56:05,502 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:56:05,503 - INFO - Update id=23574797 is handled. Duration 295 ms by bot id=7925472616
+2025-01-30 03:56:05,920 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:56:05,920 - INFO - Update id=23574798 is handled. Duration 108 ms by bot id=7925472616
+2025-01-30 03:56:08,006 - INFO - Update id=23574799 is handled. Duration 171 ms by bot id=7925472616
+2025-01-30 03:56:14,968 - INFO - Update id=23574800 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:56:16,053 - INFO - Update id=23574801 is handled. Duration 172 ms by bot id=7925472616
+2025-01-30 03:56:16,820 - INFO - Update id=23574802 is handled. Duration 157 ms by bot id=7925472616
+2025-01-30 03:56:17,422 - INFO - Update id=23574803 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:56:17,840 - INFO - Update id=23574804 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:56:18,162 - INFO - Update id=23574805 is handled. Duration 156 ms by bot id=7925472616
+2025-01-30 03:56:18,592 - INFO - Update id=23574806 is handled. Duration 187 ms by bot id=7925472616
+2025-01-30 03:56:18,871 - INFO - Update id=23574807 is handled. Duration 139 ms by bot id=7925472616
+2025-01-30 03:56:19,229 - INFO - Update id=23574808 is handled. Duration 219 ms by bot id=7925472616
+2025-01-30 03:56:19,519 - INFO - Update id=23574809 is handled. Duration 202 ms by bot id=7925472616
+2025-01-30 03:57:09,487 - INFO - Start polling
+2025-01-30 03:57:09,826 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 03:57:10,092 - INFO - Update id=23574811 is not handled. Duration 0 ms by bot id=7925472616
+2025-01-30 03:57:10,420 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 03:57:10,420 - INFO - Update id=23574810 is handled. Duration 327 ms by bot id=7925472616
+2025-01-30 03:57:13,924 - INFO - Update id=23574812 is handled. Duration 172 ms by bot id=7925472616
+2025-01-30 03:57:18,389 - INFO - Update id=23574813 is handled. Duration 155 ms by bot id=7925472616
+2025-01-30 04:01:40,042 - INFO - Start polling
+2025-01-30 04:01:40,513 - INFO - Run polling for bot @testtest332266_bot id=7925472616 - 'tests=test332266'
+2025-01-30 04:01:41,154 - INFO - Пользователь 857663686 начал поиск краски.
+2025-01-30 04:01:41,154 - INFO - Update id=23574814 is handled. Duration 421 ms by bot id=7925472616
+2025-01-30 04:01:55,183 - INFO - Update id=23574815 is handled. Duration 188 ms by bot id=7925472616
+2025-01-30 04:02:04,869 - INFO - Update id=23574816 is handled. Duration 170 ms by bot id=7925472616
